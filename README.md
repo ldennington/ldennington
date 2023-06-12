@@ -5,10 +5,10 @@ Welcome to my profile! For those who are interested, I'm a software engineer at 
 <p></p>
 
 <p align="center">
- <img src="https://badges.pufler.dev/visits/ldennington/ldennington/?color=7fffd4&style=for-the-badge"/> 
- <img src="https://badges.pufler.dev/years/ldennington/?color=7fffd4&style=for-the-badge"/>
- <img src="https://badges.pufler.dev/repos/ldennington/?color=7fffd4&style=for-the-badge"/>
- <img src="https://badges.pufler.dev/commits/monthly/ldennington/?color=7fffd4&style=for-the-badge" />
+ <img src="https://badges.pufler.dev/visits/ldennington/ldennington/?color=DE3163&style=for-the-badge"/> 
+ <img src="https://badges.pufler.dev/years/ldennington/?color=DE3163&style=for-the-badge"/>
+ <img src="https://badges.pufler.dev/repos/ldennington/?color=DE3163&style=for-the-badge"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ldennington/?color=DE3163&style=for-the-badge" />
 </p>
 
 ## Tech Stack
