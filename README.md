@@ -26,14 +26,15 @@ Welcome to my profile! For those who are interested, I'm a software engineer at 
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 </p>
 
 ## My Work on GitHub
 
+### Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ldennington&show_icons=true&theme=radical" />
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldennington&theme=radical&layout=donut" />
@@ -42,9 +43,22 @@ Welcome to my profile! For those who are interested, I'm a software engineer at 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldennington&theme=radical" />
 </p>
 
+### Contribution Graph
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldennington/ldennington/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldennington/ldennington/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldennington/ldennington/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/lessleydennington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/life.of.lessley/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="[your link](https://www.facebook.com/lessley.dennington/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lessleydennington">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/life.of.lessley/">
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/lessley.dennington/">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </p>
