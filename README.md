@@ -1,6 +1,6 @@
 ![banner](https://github.com/ldennington/ldennington/assets/11321782/b2389a6c-970f-458c-b9d8-08823addd998)
 
-<p align="center">
+<p align="left">
 Welcome to my profile! For those who are interested, I'm a software engineer at GitHub ✨. I help maintain the <a href=https://github.com/git-ecosystem/git-credential-manager>Git Credential Manager</a> project and <i>love</i> automating all the things, writing clean code, and testing to the high heavens ☁️. I hope you have fun exploring my little corner of this site - and maybe even learn a thing or two in the process 😊.
 <p></p>
 
