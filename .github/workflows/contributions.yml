@@ -19,11 +19,19 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from contributions graph, output a svg animation at <svg_out_path>
+      - uses: actions/checkout@v2
+      
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            img/github-contribution-grid-snake.svg
+            img/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
